@@ -3,6 +3,5 @@
   <display-name>My-pro1</display-name>
   <welcome-file-list>
     <welcome-file>wish.jsp</welcome-file>
-   
   </welcome-file-list>
 </web-app>
